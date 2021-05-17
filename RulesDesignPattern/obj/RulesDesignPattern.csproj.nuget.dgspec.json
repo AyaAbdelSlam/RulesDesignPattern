@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\RulesDesignPattern\\RulesDesignPattern.csproj": {}
+  },
+  "projects": {
+    "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\Core\\Core.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\RulesDesignPattern\\RulesDesignPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\RulesDesignPattern\\RulesDesignPattern.csproj",
+        "projectName": "RulesDesignPattern",
+        "projectPath": "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\RulesDesignPattern\\RulesDesignPattern.csproj",
+        "packagesPath": "C:\\Users\\ahemaid\\.nuget\\packages\\",
+        "outputPath": "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\RulesDesignPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\.nuget\\NuGet.Config",
+          "C:\\Users\\ahemaid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\Core\\Core.csproj": {
+                "projectPath": "D:\\CDP\\Design Patterns\\rules-pattern-exercise-files\\after\\RulesDemos\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.114\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

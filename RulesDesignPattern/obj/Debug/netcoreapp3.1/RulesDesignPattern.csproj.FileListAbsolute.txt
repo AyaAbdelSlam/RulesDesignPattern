@@ -1,0 +1,14 @@
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\bin\Debug\netcoreapp3.1\RulesDesignPattern.exe
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\bin\Debug\netcoreapp3.1\RulesDesignPattern.deps.json
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\bin\Debug\netcoreapp3.1\RulesDesignPattern.runtimeconfig.json
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\bin\Debug\netcoreapp3.1\RulesDesignPattern.runtimeconfig.dev.json
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\bin\Debug\netcoreapp3.1\RulesDesignPattern.dll
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\bin\Debug\netcoreapp3.1\RulesDesignPattern.pdb
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\bin\Debug\netcoreapp3.1\Core.dll
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\bin\Debug\netcoreapp3.1\Core.pdb
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\obj\Debug\netcoreapp3.1\RulesDesignPattern.csprojAssemblyReference.cache
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\obj\Debug\netcoreapp3.1\RulesDesignPattern.AssemblyInfoInputs.cache
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\obj\Debug\netcoreapp3.1\RulesDesignPattern.AssemblyInfo.cs
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\obj\Debug\netcoreapp3.1\RulesDesignPattern.csproj.CopyComplete
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\obj\Debug\netcoreapp3.1\RulesDesignPattern.dll
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\RulesDesignPattern\obj\Debug\netcoreapp3.1\RulesDesignPattern.pdb

@@ -1,0 +1,13 @@
+D:\Dev\Steve\PluralsightCourses\022 - Rules Pattern\after\RulesDemos\Core\bin\Debug\Core.dll
+D:\Dev\Steve\PluralsightCourses\022 - Rules Pattern\after\RulesDemos\Core\bin\Debug\Core.pdb
+D:\Dev\Steve\PluralsightCourses\022 - Rules Pattern\after\RulesDemos\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Dev\Steve\PluralsightCourses\022 - Rules Pattern\after\RulesDemos\Core\obj\Debug\Core.dll
+D:\Dev\Steve\PluralsightCourses\022 - Rules Pattern\after\RulesDemos\Core\obj\Debug\Core.pdb
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\Core\bin\Debug\Core.dll
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\Core\bin\Debug\Core.pdb
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\Core\obj\Debug\Core.dll
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\Core\obj\Debug\Core.pdb
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\Core\bin\Debug\nunit.framework.dll
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\Core\bin\Debug\nunit.framework.xml
+D:\CDP\Design Patterns\rules-pattern-exercise-files\after\RulesDemos\Core\obj\Debug\Core.csproj.CopyComplete
